@@ -1,0 +1,15 @@
+* [33m70d1f81[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmap[m[33m, [m[1;31mupstream/map[m[33m)[m Modal to show restaurant details
+* [33me419c6c[m[33m ([m[1;32mrecovered-branch[m[33m)[m update
+* [33m793c0e8[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m Add .env to .gitignore
+* [33mf8edf17[m Remove .env file from repository
+*   [33m55f0920[m update
+[32m|[m[33m\[m  
+[32m|[m * [33m0a8a9dd[m map update
+* [33m|[m [33m4b4198d[m map update
+[33m|[m[33m/[m  
+* [33mc984837[m new changes
+* [33mb9e81c9[m map page
+[33m|[m * [33ma75785c[m[33m ([m[1;31mupstream/supabaseVer[m[33m)[m Profile and Edit profile added
+[33m|[m[33m/[m  
+* [33m4fbd262[m[33m ([m[1;31mupstream/main[m[33m)[m new new changes
+* [33mf5bedf5[m new changes

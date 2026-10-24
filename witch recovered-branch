@@ -1,0 +1,23 @@
+[33me419c6c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrecovered-branch[m[33m, [m[1;31mupstream/map[m[33m)[m HEAD@{0}: checkout: moving from e419c6ca9d73b65fc59396c5a45d3d868553c85d to recovered-branch
+[33me419c6c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrecovered-branch[m[33m, [m[1;31mupstream/map[m[33m)[m HEAD@{1}: checkout: moving from main to e419c6ca9d73b65fc59396c5a45d3d868553c85d
+[33m793c0e8[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: checkout: moving from e419c6ca9d73b65fc59396c5a45d3d868553c85d to main
+[33me419c6c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrecovered-branch[m[33m, [m[1;31mupstream/map[m[33m)[m HEAD@{3}: checkout: moving from main to e419c6ca9d73b65fc59396c5a45d3d868553c85d
+[33m793c0e8[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{4}: checkout: moving from e419c6ca9d73b65fc59396c5a45d3d868553c85d to main
+[33me419c6c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrecovered-branch[m[33m, [m[1;31mupstream/map[m[33m)[m HEAD@{5}: checkout: moving from main to upstream/map
+[33m793c0e8[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{6}: checkout: moving from map to main
+[33m70d1f81[m[33m ([m[1;32mmap[m[33m)[m HEAD@{7}: commit: Modal to show restaurant details
+[33me419c6c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrecovered-branch[m[33m, [m[1;31mupstream/map[m[33m)[m HEAD@{8}: commit: update
+[33m793c0e8[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{9}: checkout: moving from main to map
+[33m793c0e8[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{10}: commit: Add .env to .gitignore
+[33mf8edf17[m HEAD@{11}: commit: Remove .env file from repository
+[33m55f0920[m HEAD@{12}: commit (merge): update
+[33m4b4198d[m HEAD@{13}: commit: map update
+[33mc984837[m HEAD@{14}: reset: moving to HEAD~1
+[33m0a8a9dd[m HEAD@{15}: commit: map update
+[33mc984837[m HEAD@{16}: reset: moving to c984837
+[33mb9e81c9[m HEAD@{17}: reset: moving to HEAD~1
+[33mc984837[m HEAD@{18}: commit: new changes
+[33mb9e81c9[m HEAD@{19}: reset: moving to HEAD~1
+[33m72f0e68[m HEAD@{20}: commit: Updated mealmate project
+[33mb9e81c9[m HEAD@{21}: commit: map page
+[33m4fbd262[m[33m ([m[1;31mupstream/main[m[33m)[m HEAD@{22}: clone: from https://github.com/Cjayyy05/FYP.git
